@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\授業資料\二年\C&C++\課題\Test_20220126\Test_20220126\Test_20220126\main.cpp(126,21): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+D:\授業資料\二年\C&C++\課題\Test_20220126\Test_20220126\Test_20220126\main.cpp(128,22): warning C4244: '=': 'float' から 'char' への変換です。データが失われる可能性があります。
+D:\授業資料\二年\C&C++\課題\Test_20220126\Test_20220126\Test_20220126\main.cpp(129,16): error C2664: 'int printf(const char *const ,...)': 引数 1 を 'int' から 'const char *const ' へ変換できません。
+D:\授業資料\二年\C&C++\課題\Test_20220126\Test_20220126\Test_20220126\main.cpp(129,12): message : 整数型からポインター型への変換には reinterpret_cast、C スタイル キャストまたは関数スタイル キャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950,37): message : 'printf' の宣言を確認してください
+D:\授業資料\二年\C&C++\課題\Test_20220126\Test_20220126\Test_20220126\main.cpp(130,16): error C2664: 'int printf(const char *const ,...)': 引数 1 を 'float' から 'const char *const ' へ変換できません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950,37): message : 'printf' の宣言を確認してください
+D:\授業資料\二年\C&C++\課題\Test_20220126\Test_20220126\Test_20220126\main.cpp(131,16): error C2664: 'int printf(const char *const ,...)': 引数 1 を 'char' から 'const char *const ' へ変換できません。
+D:\授業資料\二年\C&C++\課題\Test_20220126\Test_20220126\Test_20220126\main.cpp(131,12): message : 整数型からポインター型への変換には reinterpret_cast、C スタイル キャストまたは関数スタイル キャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950,37): message : 'printf' の宣言を確認してください
